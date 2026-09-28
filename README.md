@@ -146,9 +146,4 @@ Using the generated dataset:
 
 
 
-\## Important Note
-
-
-
-All trade data, market prices, and P\&L values in this project are synthetic and illustrative. They are not real market data, StoneX data, or investment advice.
 
